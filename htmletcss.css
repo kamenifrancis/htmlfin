@@ -1,0 +1,82 @@
+.header{
+  display: flex; 
+  font-family: Roboto,Arial,sans-serif;
+  color: #747474;
+margin-left: 120px;
+margin-right: 120px;
+justify-content: space-around;
+}
+.nav{
+  display: flex;
+  
+}
+.nav li{
+  padding: 10px;
+  list-style: none;
+}
+.nav a{
+  text-decoration: none;
+color: #747474;
+ }
+ #aboutus{
+  color: #00b39b;
+ }
+
+
+
+.im1{
+  width: 350px;
+}
+.section1{
+  text-align: center;
+}
+h1{
+  color: #00b39b;
+}
+.section2{
+  display: flex;
+  
+}
+.section2 p{
+  width: 600px;
+  margin: 60px;
+}
+.section3{
+  display: flex;
+  justify-content: space-between;
+   }
+   .carte1{
+    background-color: #00b39b;
+    width: 300px;
+    height: 250px;
+    border-radius: 7px;
+    color: white;
+    padding: 11px;
+    /* text-align: center; */
+    font-size: 12px;}
+    .carte2{
+      background-color: #1a4685;
+      width: 300px;
+      height: 250px;
+      border-radius: 7px;
+      color: white;
+      padding: 11px;
+      /* text-align: center; */
+      font-size: 12px;}
+      .carte3{
+        background-color: #090316;
+        width: 300px;
+        height: 250px;
+        border-radius: 7px;
+        color: white;
+        padding: 11px;
+        /* text-align: center; */
+        font-size: 12px;}
+        .section4 h1{
+        width: 190px;
+        }
+        
+        
+
+
+  
